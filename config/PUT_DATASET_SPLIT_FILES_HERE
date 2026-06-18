@@ -1,0 +1,3 @@
+Put local dataset split files in this directory.
+
+Only this placeholder is tracked by Git. Other files under config/ are ignored.

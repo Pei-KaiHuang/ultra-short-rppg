@@ -1,0 +1,14 @@
+astropy
+einops
+matplotlib
+neurokit2
+numpy
+opencv-python
+pillow
+pytz
+scikit-learn
+scipy
+torch
+torchprofile
+torchvision
+tqdm
