@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Research artifacts
+config/**
+!config/
+!config/PUT_DATASET_SPLIT_FILES_HERE
+data/
+results/
+logs/
+cache/
+logger*/
+*.log
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
